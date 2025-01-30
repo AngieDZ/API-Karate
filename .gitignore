@@ -1,0 +1,33 @@
+# Ignorar carpetas de construcción
+target/
+build/
+
+# Ignorar configuraciones de IDE
+.idea/
+.vscode/
+
+# Ignorar archivos de configuración del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de configuración de entorno
+*.env
+*.env.*
+
+# Ignorar logs y archivos temporales
+*.log
+*.tmp
+
+# Ignorar archivos generados por el sistema operativo o herramientas
+*.bak
+*.swp
+
+# Ignorar binarios o compilados
+*.class
+*.exe
+*.dll
+*.o
+*.out
+
+# Ignorar dependencias descargadas (si es necesario)
+node_modules/
