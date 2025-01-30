@@ -5,7 +5,7 @@ build/
 # Ignorar configuraciones de IDE
 .idea/
 .vscode/
-*.iml
+
 
 # Ignorar archivos de configuración del sistema operativo
 .DS_Store
@@ -32,3 +32,6 @@ Thumbs.db
 
 # Ignorar dependencias descargadas
 node_modules/
+
+# Ignorar archivo específico de configuración del IDE
+booking_api_testing.iml
