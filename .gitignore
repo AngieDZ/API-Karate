@@ -5,6 +5,7 @@ build/
 # Ignorar configuraciones de IDE
 .idea/
 .vscode/
+*.iml
 
 # Ignorar archivos de configuración del sistema operativo
 .DS_Store
@@ -29,5 +30,5 @@ Thumbs.db
 *.o
 *.out
 
-# Ignorar dependencias descargadas (si es necesario)
+# Ignorar dependencias descargadas
 node_modules/
